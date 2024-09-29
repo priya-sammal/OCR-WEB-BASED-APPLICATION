@@ -82,7 +82,12 @@ The application uses the following Python libraries:
 - **tensorflow**: For deep learning backend used by Huggingface Transformers.
 - **transformers**: For NLP tasks like keyword search.
 - **pillow**: For handling images.
-- **torch**: PyTorch framework required by Huggingface Transformers. 
+- **torch**: PyTorch framework required by Huggingface Transformers.
+
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 - Email: priyasammal3@gmail.com
