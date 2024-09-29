@@ -9,6 +9,9 @@ This project is a **Streamlit** web application that allows users to upload imag
 ## Live Demo
 You can access the live version of this app [here](https://ocr-web-based-application-jtsve7tayrwzvnnatpfzog.streamlit.app/)
 ## Extracted Text and Search Output
+### HOMEPAGE
+
+![Home Page](https://github.com/priya-sammal/OCR-WEB-BASED-APPLICATION/blob/main/Extracted%20Text%20and%20Search%20Output/homepage.png?raw=true).
 
 
 ## Installation
