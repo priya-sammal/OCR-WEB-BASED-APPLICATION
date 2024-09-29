@@ -8,6 +8,9 @@ This project is a **Streamlit** web application that allows users to upload imag
 - **Simple Interface**: Streamlit-powered interface for easy interaction.
 ## Live Demo
 You can access the live version of this app [here](https://ocr-web-based-application-jtsve7tayrwzvnnatpfzog.streamlit.app/)
+## Extracted Text and Search Output
+
+
 ## Installation
 To run this project locally, follow the steps below.
 ### 1. Clone the Repository
