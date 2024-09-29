@@ -11,8 +11,17 @@ You can access the live version of this app [here](https://ocr-web-based-applica
 ## Extracted Text and Search Output
 ### HOMEPAGE
 
-![Home Page](https://github.com/priya-sammal/OCR-WEB-BASED-APPLICATION/blob/main/Extracted%20Text%20and%20Search%20Output/homepage.png?raw=true).
+![Home Page](https://github.com/priya-sammal/OCR-WEB-BASED-APPLICATION/blob/main/Extracted%20Text%20and%20Search%20Output/homepage.png?raw=true)
 
+### INPUT IMAGE
+
+![Input Example](https://github.com/priya-sammal/OCR-WEB-BASED-APPLICATION/blob/main/Extracted%20Text%20and%20Search%20Output/inputimage.png?raw=true)
+
+### EXTRACT TEXT
+![Outut Example](https://github.com/priya-sammal/OCR-WEB-BASED-APPLICATION/blob/main/Extracted%20Text%20and%20Search%20Output/outputtext.png?raw=true)
+
+### DEPLOYMENT
+![Deploy](https://github.com/priya-sammal/OCR-WEB-BASED-APPLICATION/blob/main/Extracted%20Text%20and%20Search%20Output/deploy.png?raw=true)
 
 ## Installation
 To run this project locally, follow the steps below.
