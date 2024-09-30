@@ -10,6 +10,7 @@ reader = easyocr.Reader(['hi', 'en'])
 # Force Huggingface Transformers to use PyTorch explicitly
 qa_pipeline = pipeline('question-answering', model='distilbert-base-cased-distilled-squad', framework='pt')
 
+@st.cache_data(max_entries=1000)  # Maximum 1000 entries in the cache
 # Function to perform OCR on the image
 def ocr_image(uploaded_image):
     # Convert the uploaded image to a NumPy array
